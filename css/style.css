@@ -198,8 +198,9 @@ a:hover {
 .bp-icon--prev:after {
   content: "\e004";
 }
-.gifs {
-  float: right;
+#page-home {
+  background: #1d1e21 url("../img/bg.jpg") no-repeat center center;
+  background-size: cover;
 }
 
 @media screen and (max-width: 40em) {
